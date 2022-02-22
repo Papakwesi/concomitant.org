@@ -17,7 +17,3 @@ app.listen(process.env.PORT || 3000, function(req, res){
   console.log("server is running on 3000 ")
 });
 
-//
-// 1f3eab003b50b1a336d705c1ca97beb2-us14
-// audience id
-// 4b2507afba
