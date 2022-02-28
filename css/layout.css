@@ -30,7 +30,7 @@ File: Layout CSS
 
 #header #logo{margin:22px 0 0 0;}
 #header #logo h1{margin:0; padding:0; font-size:2rem; font-variant:small-caps;}
-
+#logo {color: #DFBD69;}
 
 /* Page Intro
 --------------------------------------------------------------------------------------------------------------- */
@@ -39,7 +39,7 @@ File: Layout CSS
 #pageintro article{display:block; max-width:60%; text-transform:capitalize;}
 #pageintro .heading{font-size:5rem;}
 #pageintro footer{margin-top:50px;}
-
+.heading {color: #DFBD69;}
 
 /* Contact Details
 --------------------------------------------------------------------------------------------------------------- */
