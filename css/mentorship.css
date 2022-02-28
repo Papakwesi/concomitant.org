@@ -115,5 +115,6 @@ main {
   }
  .banner {
     margin: 0 20vw;
+    margin-bottom: 30px;
   }
 }
