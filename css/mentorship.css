@@ -111,6 +111,9 @@ main {
   }
 
   #themes {
-  	margin: 0px 12%;
+    margin: 0px 12%;
+  }
+ .banner {
+    margin: 0 20vw;
   }
 }
